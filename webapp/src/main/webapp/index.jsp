@@ -28,7 +28,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="https://google.com" >Sign in</a>.</p>
+    <p>Already have an account? with us<a href="https://google.com" >Sign in</a>.</p>
   </div>
 
    <h1> Thankyou for submit request, we will contact you soon</h1>
