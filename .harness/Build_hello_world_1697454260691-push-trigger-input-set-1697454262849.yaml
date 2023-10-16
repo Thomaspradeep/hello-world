@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_hello_world_1697454260691-push-trigger-input-set
+  identifier: Build_hello_world_1697454260691pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: Terraform
+  pipeline:
+    identifier: Build_hello_world_1697454260691
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
